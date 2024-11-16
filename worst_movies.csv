@@ -1,0 +1,101 @@
+id,budget,revenue,title,genres,averageRating,numVotes,releaseYear,director_name
+46326,13000000,98441954,Justin Bieber: Never Say Never,"Documentary, Music",1.7,76483,2011,Jon M. Chu
+45791,25000000,14109284,Disaster Movie,"Comedy, Sci-Fi",1.9,95400,2008,Jason Friedberg
+45834,20000000,10442808,Alone in the Dark,"Action, Horror, Sci-Fi",2.4,47436,2005,Uwe Boll
+45719,20000000,86865564,Epic Movie,"Adventure, Comedy, Fantasy",2.4,110415,2007,Jason Friedberg
+45710,20000000,48548426,Date Movie,"Comedy, Romance",2.8,62696,2006,Jason Friedberg
+45203,30000000,84646831,Meet the Spartans,"Comedy, Fantasy",2.8,112435,2008,Jason Friedberg
+45536,25000000,2405420,BloodRayne,"Action, Fantasy, Horror",3.0,37568,2005,Uwe Boll
+44198,0,0,Rollerball,"Action, Sci-Fi, Sport",3.1,30016,2002,John McTiernan
+44096,79000000,149673788,Jack and Jill,Comedy,3.3,91818,2011,Dennis Dugan
+45729,20000000,80547866,Vampires Suck,"Comedy, Horror",3.4,52426,2010,Jason Friedberg
+46694,10000000,598645,Swept Away,"Comedy, Romance",3.6,18155,2002,Guy Ritchie
+45936,1000000,21378361,The Fog,"Horror, Mystery",3.7,39850,2005,John Carpenter
+44598,50000000,12764201,Street Fighter: The Legend of Chun-Li,"Action, Crime, Fantasy",3.7,25600,2009,Andrzej Bartkowiak
+44390,83000000,59468275,The Flintstones in Viva Rock Vegas,"Comedy, Family, Romance",3.7,25938,2000,Brian Levant
+48244,250000,56825,The Canyons,"Drama, Thriller",3.8,12104,2013,Paul Schrader
+44381,60000000,0,In the Name of the King: A Dungeon Siege Tale,"Action, Adventure, Fantasy",3.8,51654,2007,Uwe Boll
+43807,125000000,238207122,Batman & Robin,"Action, Sci-Fi",3.8,272197,1997,Joel Schumacher
+45692,20000000,149281606,Beverly Hills Chihuahua,"Adventure, Comedy, Drama",3.9,26306,2008,Raja Gosnell
+43856,160000000,164508066,Speed 2: Cruise Control,"Action, Adventure, Crime",3.9,87233,1997,Jan de Bont
+43735,150000000,318502923,The Last Airbender,"Action, Adventure, Family",4.0,176868,2010,M. Night Shyamalan
+45825,20000000,7000000,An American Carol,"Comedy, Fantasy",4.0,10165,2008,David Zucker
+45508,28000000,10126458,Shark Night,"Action, Horror, Thriller",4.1,27451,2011,David R. Ellis
+43748,70000000,195735876,Beowulf,"Action, Adventure, Fantasy",4.1,12727,1999,Robert Zemeckis
+43843,110000000,215294342,The Patriot,"Action, Thriller",4.2,13497,1998,Roland Emmerich
+44087,80000000,5989640,A Sound of Thunder,"Action, Adventure, Horror",4.2,20767,2005,Peter Hyams
+44992,33000000,102984862,Resident Evil,"Action, Horror, Sci-Fi",4.2,46932,2022,Paul W.S. Anderson
+44207,70000000,61279452,The Legend of Hercules,"Action, Adventure, Fantasy",4.3,56638,2014,Renny Harlin
+47268,5000000,0,Yoga Hosers,"Action, Comedy, Horror",4.3,15806,2016,Kevin Smith
+43923,95000000,543514353,Cinderella,"Comedy, Family, Fantasy",4.4,47866,2021,Kenneth Branagh
+44322,50000000,61112916,The Shaggy Dog,"Comedy, Family, Fantasy",4.4,20412,2006,Brian Robbins
+44907,38000000,107597242,Paul Blart: Mall Cop 2,"Action, Comedy, Crime",4.4,42021,2015,Andy Fickman
+44588,22000000,24188922,Fair Game,"Action, Romance, Thriller",4.4,14082,1995,Doug Liman
+47263,15000000,0,Dying of the Light,"Action, Drama, Thriller",4.5,11718,2014,Paul Schrader
+44364,60000000,71073932,xXx: State of the Union,"Action, Adventure, Crime",4.5,74368,2005,Lee Tamahori
+45984,3500000,34000000,Day of the Dead,"Action, Horror, Sci-Fi",4.5,22043,2008,George A. Romero
+44010,84000000,123307945,Nutty Professor II: The Klumps,"Comedy, Romance, Sci-Fi",4.5,54008,2000,Peter Segal
+45102,32000000,83615414,"Big Mommas: Like Father, Like Son","Action, Comedy, Crime",4.5,30002,2011,John Whitesell
+45819,20000000,10337477,Code Name: The Cleaner,"Action, Comedy, Crime",4.6,12278,2007,Les Mayfield
+44157,94000000,54744738,Driven,"Action, Drama, Sport",4.6,43618,2001,Renny Harlin
+45990,0,90508336,Madea Goes to Jail,"Comedy, Crime, Drama",4.6,13140,2009,Tyler Perry
+47698,2000000,2506446,Full Frontal,"Comedy, Romance",4.7,11370,2002,Steven Soderbergh
+45158,35000000,155545279,Hannah Montana: The Movie,"Comedy, Drama, Family",4.7,46542,2009,Peter Chelsom
+46281,14000000,19800000,Vampire in Brooklyn,"Comedy, Fantasy, Horror",4.7,25635,1995,Wes Craven
+46284,14000000,0,My Boss's Daughter,"Comedy, Romance",4.7,30894,2003,David Zucker
+47343,4000000,52425855,The Boy Next Door,Thriller,4.7,46635,2015,Rob Cohen
+45704,20000000,60072596,Why Did I Get Married Too?,"Comedy, Drama, Romance",4.7,10425,2010,Tyler Perry
+44836,40000000,27053815,The Musketeer,"Action, Adventure, Romance",4.7,15159,2001,Peter Hyams
+44886,15000000,94000000,The Crow,"Action, Crime, Fantasy",4.7,24952,2024,Alex Proyas
+44594,50000000,55969000,Zoolander 2,"Action, Adventure, Comedy",4.7,77442,2016,Ben Stiller
+44495,50000000,709827462,The Twilight Saga: New Moon,"Adventure, Drama, Fantasy",4.8,305069,2009,Chris Weitz
+47333,4000000,0,Survival of the Dead,"Comedy, Drama, Horror",4.8,22817,2009,George A. Romero
+44779,40000000,138259062,Big Momma's House 2,"Comedy, Crime",4.8,47238,2006,John Whitesell
+45694,32000000,97918663,Are We There Yet?,"Adventure, Comedy, Family",4.8,35108,2005,Brian Levant
+46998,7000000,0,Twixt,"Comedy, Fantasy, Horror",4.8,12125,2011,Francis Ford Coppola
+45796,40000000,0,Envy,Comedy,4.8,32596,2004,Barry Levinson
+43790,130000000,243843127,After Earth,"Action, Adventure, Sci-Fi",4.8,211349,2013,M. Night Shyamalan
+45502,25000000,19829957,My Soul to Take,"Horror, Mystery, Thriller",4.8,21945,2010,Wes Craven
+44393,60000000,0,The Ridiculous 6,"Action, Adventure, Comedy",4.9,54763,2015,Frank Coraci
+45332,28000000,14010832,Ghosts of Mars,"Action, Horror, Sci-Fi",4.9,58894,2001,John Carpenter
+43667,170000000,222104681,Wild Wild West,"Action, Comedy, Sci-Fi",4.9,169018,1999,Barry Sonnenfeld
+43816,120000000,259175788,Charlie's Angels: Full Throttle,"Action, Adventure, Comedy",4.9,134622,2003,McG
+44345,60000000,62357900,Year One,Comedy,4.9,105064,2009,Harold Ramis
+43874,150000000,599045960,Casino Royale,Comedy,5.0,33088,1967,Martin Campbell
+44320,60000000,163403799,The Happening,"Adventure, Drama, Sci-Fi",5.0,220162,2008,M. Night Shyamalan
+44048,80000000,91188905,The Haunting,"Fantasy, Horror, Mystery",5.0,81860,1999,Jan de Bont
+46513,0,0,High School Musical 3: Senior Year,"Comedy, Drama, Family",5.0,68875,2008,Kenny Ortega
+46939,0,0,Darkness Falls,"Fantasy, Horror, Mystery",5.0,34012,2003,Jonathan Liebesman
+44386,60000000,0,Holy Man,"Comedy, Drama",5.0,21179,1998,Stephen Herek
+44637,46000000,341631208,The Flintstones,"Comedy, Family, Fantasy",5.0,87978,1994,Brian Levant
+44363,0,141702264,Garfield: A Tail of Two Kitties,"Adventure, Comedy, Family",5.0,48438,2006,Tim Hill
+45707,0,0,Madea's Witness Protection,"Comedy, Crime, Drama",5.0,11514,2012,Tyler Perry
+43947,92000000,264105545,Charlie's Angels,"Action, Adventure, Comedy",5.0,81421,2019,McG
+46131,15000000,66966987,When a Stranger Calls,"Horror, Thriller",5.1,49395,2006,Simon West
+44114,80000000,78000586,Exorcist: The Beginning,"Horror, Mystery, Thriller",5.1,40510,2004,Renny Harlin
+44181,0,0,Wolf,"Drama, Mystery, Thriller",5.1,12813,2021,Mike Nichols
+43759,135000000,76932943,Stealth,"Action, Adventure, Sci-Fi",5.1,56765,2005,Rob Cohen
+44783,40000000,186167139,The Final Destination,"Horror, Thriller",5.1,118703,2009,David R. Ellis
+45046,35000000,11560806,The Order,"Horror, Mystery, Thriller",5.1,18653,2003,Brian Helgeland
+44848,45000000,20350754,Showgirls,Drama,5.1,76530,1995,Paul Verhoeven
+44760,45000000,178262620,Scary Movie 4,Comedy,5.1,131581,2006,David Zucker
+45022,35000000,82087155,Abduction,"Action, Drama, Mystery",5.1,84026,2011,John Singleton
+45027,35000000,19294901,Cursed,"Comedy, Horror, Mystery",5.1,35745,2005,Wes Craven
+45029,35000000,51680201,Hot Pursuit,"Action, Comedy, Crime",5.1,54832,2015,Anne Fletcher
+44833,40000000,0,Bless the Child,"Crime, Drama, Horror",5.1,15544,2000,Chuck Russell
+45190,30000000,54819301,The Three Stooges,"Comedy, Family",5.1,33525,2012,Bobby Farrelly
+44349,65000000,36850101,My Favorite Martian,"Comedy, Family, Sci-Fi",5.1,14642,1999,Donald Petrie
+44494,0,47231070,Deck the Halls,"Comedy, Family",5.1,33547,2006,John Whitesell
+44375,60000000,50650079,Meet Dave,"Adventure, Comedy, Family",5.1,44329,2008,Brian Robbins
+45077,30000000,173959438,Big Momma's House,"Action, Comedy, Crime",5.2,92173,2000,Raja Gosnell
+44057,80000000,169852759,Zookeeper,"Comedy, Family, Fantasy",5.2,66285,2011,Frank Coraci
+44058,80000000,136159423,Lost in Space,"Action, Adventure, Sci-Fi",5.2,75520,1998,Stephen Hopkins
+45223,0,60896147,My Super Ex-Girlfriend,"Comedy, Romance, Sci-Fi",5.2,67638,2006,Ivan Reitman
+45383,26000000,61489265,Flatliners,"Drama, Horror, Mystery",5.2,51847,2017,Joel Schumacher
+45014,45000000,30353232,Alex Cross,"Action, Crime, Mystery",5.2,35741,2012,Rob Cohen
+44975,1800000,25504513,A Nightmare on Elm Street,"Crime, Drama, Horror",5.2,109661,2010,Wes Craven
+47004,0,7000000,High School Musical 2,"Comedy, Drama, Family",5.2,67680,2007,Kenny Ortega
+43688,165000000,389681935,Independence Day: Resurgence,"Action, Adventure, Sci-Fi",5.2,192104,2016,Roland Emmerich
+44192,60000000,55987321,Doom,"Action, Horror, Sci-Fi",5.2,120269,2005,Andrzej Bartkowiak
+43668,145000000,401128639,The Mummy: Tomb of the Dragon Emperor,"Action, Adventure, Fantasy",5.2,173278,2008,Rob Cohen
+43961,90000000,182290266,The Haunted Mansion,"Comedy, Family, Fantasy",5.2,58367,2003,Rob Minkoff

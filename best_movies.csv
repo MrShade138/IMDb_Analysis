@@ -1,0 +1,101 @@
+id,budget,revenue,title,genres,averageRating,numVotes,releaseYear,director_name
+43662,185000000,1004558444,The Dark Knight,"Action, Crime, Drama",9.0,2944057,2008,Christopher Nolan
+43926,94000000,1118888979,The Lord of the Rings: The Return of the King,"Action, Adventure, Drama",9.0,2027948,2003,Peter Jackson
+45415,22000000,321365567,Schindler's List,"Biography, Drama, History",9.0,1485605,1993,Steven Spielberg
+43859,93000000,871368364,The Lord of the Rings: The Fellowship of the Ring,"Action, Adventure, Drama",8.9,2057743,2001,Peter Jackson
+46829,8000000,213928762,Pulp Fiction,"Crime, Drama",8.9,2274790,1994,Quentin Tarantino
+43693,160000000,825532764,Inception,"Action, Adventure, Sci-Fi",8.8,2612498,2010,Christopher Nolan
+46457,14000000,85000000,Das Boot,"Drama, War",8.8,34026,1985,Wolfgang Petersen
+44259,63000000,100853753,Fight Club,Drama,8.8,2394249,1999,David Fincher
+44406,55000000,677945399,Forrest Gump,"Drama, Romance",8.8,2318314,1994,Robert Zemeckis
+43927,79000000,926287400,The Lord of the Rings: The Two Towers,"Action, Adventure, Drama",8.8,1828245,2002,Peter Jackson
+43692,165000000,675120017,Interstellar,"Adventure, Drama, Sci-Fi",8.7,2196602,2014,Christopher Nolan
+44231,63000000,463517383,The Matrix,"Action, Sci-Fi",8.7,2103112,1999,Lilly Wachowski
+44307,60000000,0,The Family Man,"Action, Comedy, Drama",8.7,101576,2019,Brett Ratner
+44225,70000000,481840909,Saving Private Ryan,"Drama, War",8.6,1531764,1998,Steven Spielberg
+45150,33000000,327311859,Se7en,"Crime, Drama, Mystery",8.6,1851176,1995,David Fincher
+43876,100000000,520000000,Terminator 2: Judgment Day,"Action, Adventure, Sci-Fi",8.6,1202638,1991,James Cameron
+45688,19000000,272742922,The Silence of the Lambs,"Crime, Drama, Thriller",8.6,1590611,1991,Jonathan Demme
+43884,100000000,425368238,Django Unchained,"Comedy, Drama, Western",8.5,1740212,2012,Quentin Tarantino
+46755,11000000,104931801,Alien,"Horror, Sci-Fi",8.5,989469,1979,Ridley Scott
+43871,103000000,457640427,Gladiator,"Action, Adventure, Drama",8.5,1674417,2000,Ridley Scott
+44793,40000000,109676311,The Prestige,"Drama, Mystery, Sci-Fi",8.5,1476045,2006,Christopher Nolan
+45002,35000000,120072577,The Pianist,"Biography, Drama, Music",8.5,938691,2002,Roman Polanski
+47051,6000000,23341568,The Usual Suspects,"Crime, Drama, Mystery",8.5,1165989,1995,Bryan Singer
+46926,0,0,The Hole,"Crime, Drama, Thriller",8.5,21121,1960,Joe Dante
+45882,19000000,381109762,Back to the Future,"Adventure, Comedy, Sci-Fi",8.5,1342015,1985,Robert Zemeckis
+43948,90000000,289847354,The Departed,"Crime, Drama, Thriller",8.5,1452819,2006,Martin Scorsese
+46457,14000000,85000000,Das Boot,"Drama, War",8.4,269532,1981,Wolfgang Petersen
+44108,75000000,296339527,X-Men,"Action, Adventure, Animation",8.4,51301,1992,Bryan Singer
+45682,18000000,389925971,Raiders of the Lost Ark,"Action, Adventure",8.4,1053847,1981,Steven Spielberg
+45122,31500000,89460381,Apocalypse Now,"Drama, Mystery, War",8.4,724885,1979,Francis Ford Coppola
+44168,70000000,319131050,Inglourious Basterds,"Adventure, Drama, War",8.4,1628867,2009,Quentin Tarantino
+46000,18500000,183316455,Aliens,"Action, Adventure, Sci-Fi",8.4,790497,1986,James Cameron
+47170,9000000,39723096,Memento,"Mystery, Thriller",8.4,1349060,2000,Christopher Nolan
+45517,25000000,23057115,Warrior,"Action, Crime, Drama",8.4,47633,2019,Gavin O'Connor
+43600,250000000,1084939099,The Dark Knight Rises,"Action, Drama, Thriller",8.4,1870371,2012,Christopher Nolan
+43787,130000000,371940071,The Adventures of Tintin,"Action, Adventure, Animation",8.3,19569,1991,Steven Spielberg
+45447,25000000,65884703,Scarface,"Crime, Drama",8.3,939873,1983,Brian De Palma
+46113,15000000,356296601,American Beauty,Drama,8.3,1229453,1999,Sam Mendes
+47897,1200000,14661007,Reservoir Dogs,"Crime, Thriller",8.3,1110892,1992,Quentin Tarantino
+44857,10000000,173921954,Amélie,"Comedy, Romance",8.3,806343,2001,Jean-Pierre Jeunet
+46572,10000000,225933435,Good Will Hunting,"Drama, Romance",8.3,1101898,1997,Gus Van Sant
+47298,4500000,7390108,Requiem for a Dream,Drama,8.3,918875,2000,Darren Aronofsky
+44425,30000000,180949000,Kill Bill: Vol. 1,"Action, Crime, Thriller",8.2,1222551,2003,Quentin Tarantino
+44090,60000000,313542341,A Beautiful Mind,"Biography, Drama, Mystery",8.2,1004454,2001,Ron Howard
+47167,5000000,26010864,The Elephant Man,"Biography, Drama",8.2,263655,1980,David Lynch
+44272,63000000,920100000,Jurassic Park,"Action, Adventure, Sci-Fi",8.2,1092586,1993,Steven Spielberg
+44915,15000000,19629760,The Thing,"Horror, Mystery, Sci-Fi",8.2,483230,1982,John Carpenter
+45299,28000000,140767956,Die Hard,"Action, Thriller",8.2,963119,1988,John McTiernan
+46502,10000000,83557872,Snatch,"Comedy, Crime",8.2,927722,2000,Guy Ritchie
+44489,52000000,116112375,Casino,"Crime, Drama",8.2,577301,1995,Martin Scorsese
+44742,40000000,672806292,The Sixth Sense,"Drama, Mystery, Thriller",8.2,1076428,1999,M. Night Shyamalan
+46062,19000000,83258226,Pan's Labyrinth,"Drama, Fantasy, War",8.2,713606,2006,Guillermo del Toro
+44971,35000000,126216940,L.A. Confidential,"Crime, Drama, Mystery",8.2,630222,1997,Curtis Hanson
+44150,70000000,86658558,The Kingdom,"Comedy, Drama, Fantasy",8.2,20677,1994,Peter Berg
+45452,25000000,77208711,There Will Be Blood,Drama,8.2,654799,2007,Paul Thomas Anderson
+44603,48000000,474171806,Indiana Jones and the Last Crusade,"Action, Adventure",8.2,824022,1989,Steven Spielberg
+44036,80000000,294804195,Shutter Island,"Drama, Mystery, Thriller",8.2,1503479,2010,Martin Scorsese
+47934,1300000,28262574,Taxi Driver,"Crime, Drama",8.2,949920,1976,Martin Scorsese
+44034,80000000,230685453,Get Smart,"Action, Adventure, Comedy",8.2,14186,1965,Peter Segal
+43895,100000000,392000694,The Wolf of Wall Street,"Biography, Comedy, Crime",8.2,1633331,2013,Martin Scorsese
+45426,25000000,171600000,No Country for Old Men,"Crime, Drama, Thriller",8.2,1089880,2007,Joel Coen
+43716,150000000,374218673,Batman Begins,"Action, Crime, Drama",8.2,1612576,2005,Christopher Nolan
+46261,14000000,159157447,Unforgiven,"Drama, Western",8.2,444065,1992,Clint Eastwood
+43760,130000000,185258983,Watchmen,"Crime, Drama, Mystery",8.2,137922,2019,Zack Snyder
+44243,65000000,69700000,The Kid,"Comedy, Drama, Family",8.2,137750,1921,Jon Turteltaub
+44929,38000000,90247624,Rush,"Action, Biography, Drama",8.1,523674,2013,Ron Howard
+47036,6400000,78371200,The Terminator,"Action, Adventure, Sci-Fi",8.1,945275,1984,James Cameron
+44290,61000000,369330363,Gone Girl,"Drama, Mystery, Thriller",8.1,1094563,2014,David Fincher
+47042,6000000,138530565,Platoon,"Drama, War",8.1,447322,1986,Oliver Stone
+45941,18000000,23000000,Raging Bull,"Biography, Drama, Sport",8.1,387290,1980,Martin Scorsese
+46836,8000000,52287414,Stand by Me,"Adventure, Comedy, Drama",8.1,452961,1986,Rob Reiner
+45154,30000000,216763646,Million Dollar Baby,"Drama, Sport",8.1,733102,2004,Clint Eastwood
+45129,30000000,174600318,The Grand Budapest Hotel,"Adventure, Comedy, Crime",8.1,906013,2014,Wes Anderson
+47614,2500000,5535405,Before Sunrise,"Drama, Romance",8.1,348969,1995,Richard Linklater
+47409,3800000,23689877,Network,Drama,8.1,174270,1976,Sidney Lumet
+45410,33000000,269958228,Gran Torino,Drama,8.1,826646,2008,Clint Eastwood
+43724,150000000,378858340,Mad Max: Fury Road,"Action, Adventure, Sci-Fi",8.1,1137728,2015,George Miller
+47685,2700000,15992615,Before Sunset,"Drama, Romance",8.1,294920,2004,Richard Linklater
+44480,52000000,352114312,Catch Me If You Can,"Biography, Crime, Drama",8.1,1129485,2002,Steven Spielberg
+47865,1350000,3897569,"Lock, Stock and Two Smoking Barrels","Action, Comedy, Crime",8.1,625760,1998,Guy Ritchie
+43796,140000000,655011224,Pirates of the Caribbean: The Curse of the Black Pearl,"Action, Adventure, Fantasy",8.1,1237987,2003,Gore Verbinski
+47484,4000000,16491080,Trainspotting,Drama,8.1,737799,1996,Danny Boyle
+46098,16000000,47801389,Hachi: A Dog's Tale,"Biography, Drama, Family",8.1,319467,2009,Lasse Hallström
+45322,28000000,33139618,Blade Runner,"Action, Drama, Sci-Fi",8.1,838407,1982,Ridley Scott
+43657,200000000,325233863,A Christmas Carol,"Drama, Family, Fantasy",8.1,26059,1951,Robert Zemeckis
+46204,15000000,46189568,The Big Lebowski,"Comedy, Crime",8.1,875435,1998,Joel Coen
+48363,0,321952,The Last Waltz,"Biography, Documentary, Music",8.1,20653,1978,Martin Scorsese
+45517,25000000,23057115,Warrior,"Action, Drama, Sport",8.1,505484,2011,Gavin O'Connor
+44930,37000000,48451803,Magnolia,Drama,8.0,333432,1999,Paul Thomas Anderson
+44180,70000000,122919055,Big Fish,"Adventure, Drama, Fantasy",8.0,464450,2003,Tim Burton
+46765,9000000,24538513,Sicko,"Documentary, Drama",8.0,77160,2007,Michael Moore
+46153,16000000,30857814,The Princess Bride,"Adventure, Comedy, Family",8.0,458661,1987,Rob Reiner
+46327,13000000,327803731,Black Swan,"Drama, Thriller",8.0,842251,2010,Darren Aronofsky
+46256,14600000,70906973,Groundhog Day,"Comedy, Drama, Fantasy",8.0,699546,1993,Harold Ramis
+46263,15000000,377910544,Slumdog Millionaire,"Crime, Drama, Romance",8.0,886416,2008,Danny Boyle
+43977,88000000,108539911,Cinderella Man,"Biography, Drama, Romance",8.0,201283,2005,Ron Howard
+43894,100000000,170877916,Blood Diamond,"Adventure, Drama, Thriller",8.0,597061,2006,Edward Zwick
+45146,30000000,191502426,The Addams Family,"Comedy, Family, Horror",8.0,22415,1964,Barry Sonnenfeld
+44778,40000000,205405498,JFK,"Drama, History, Thriller",8.0,173346,1991,Oliver Stone
+43875,100000000,362211740,Planet of the Apes,"Adventure, Sci-Fi",8.0,201702,1968,Tim Burton
